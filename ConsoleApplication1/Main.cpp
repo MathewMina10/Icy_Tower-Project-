@@ -22,7 +22,6 @@ int main()
                 window.close();
         }
         Texture t;
-        t.loadFromFile("satoru-gojo-smoking-jujutsu-kaisen-hd-wallpaper-uhdpaper.com-10@2@a.jpg");
         Sprite s;
         s.setTexture(t);
         s.setScale(0.5, 0.5);
